@@ -5,7 +5,7 @@ En esto proyecto para el curso Paradigmas de Programación en la Universidad Nac
 
 Para instalar y correr el proyecto basta con abrir el archivo `run-project.bat`, el cual se encuentra en la carpeta raíz del proyecto. Este ejecutará unos comandos automatizados para iniciar el proyecto.
 
-## Herramientas Utilizadas
+## Herramientas Utilizadas:
 
 Aquí están algunas de las principales herramientas y tecnologías que se utilizan en este proyecto:
 
@@ -13,7 +13,7 @@ Aquí están algunas de las principales herramientas y tecnologías que se utili
 - [Express](https://expressjs.com/): Un framework de aplicaciones web para Node.js utilizado para crear servicios web y API.
 - [Prolog](https://www.swi-prolog.org): Un lenguaje de programación lógica que ayudará en la transpilación de OFS a Javascript
 
-## Autores del Proyecto
+## Autores del Proyecto:
 
 Los siguientes son los autores principales de este proyecto:
 
